@@ -1,0 +1,7 @@
+Package    Version
+---------- -------
+llvmlite   0.40.1
+numba      0.57.1
+numpy      1.24.4
+pip        23.1.2
+setuptools 65.5.0
