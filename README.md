@@ -41,9 +41,3 @@ Gabriel Osmo:
 - Email [gabeosmo@outlook.com](mailto:gabeosmo@outlook.com)
 - LinkedIn [Gabriel Osmo](www.linkedin.com/in/gabeosmo/)
 - Twitter [@gabsosmo](https://twitter.com/gabsosmo)
-
-## Related Projects
-
-Tic-Tac-Toe AI: An AI-powered tic-tac-toe game with various difficulty levels.
-
-Feel free to customize the template and add more sections as needed.
