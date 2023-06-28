@@ -1,1 +1,1 @@
-# naughts_and_crosses
+# Naughts and Crosses (Tic-Tac-Toe)
